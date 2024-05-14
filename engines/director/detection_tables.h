@@ -166,6 +166,7 @@ static const PlainGameDescriptor directorGames[] = {
 	{ "fpgacastle2",		"Great Adventures by Fisher-Price: Castle (1998)" },
 	{ "fpgapirates",		"Great Adventures by Fisher-Price: Pirates" },
 	{ "fpgawestern",		"Great Adventures by Fisher-Price: Wild Western Town" },
+	{ "fppetshop",			"Fisher-Price Time to Play: Pet Shop" },
 	{ "fplit",				"Fisher-Price Learning in Toyland" },
 	{ "fplpairport",		"Fisher-Price Little People: Discovery Airport" },
 	{ "fplpxmas",			"Fisher-Price Little People: Christmas Activity Center" },
